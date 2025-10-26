@@ -5,15 +5,23 @@ Este projeto é uma Calculadora de IMC (Índice de Massa Corporal) desenvolvida 
 🚀 Funcionalidades:
 
 Entrada de peso (kg) e altura (m) através de janelas (JOptionPane).
+
 Cálculo automático do IMC.
+
 Exibição do resultado com a classificação correspondente:
+
 Abaixo do peso
+
 Peso ideal
+
 Acima do peso
+
 Obesidade grau I
 
 💻 Tecnologias Utilizadas:
 
 ☕ Java 17+.
+
 🪟 Swing (JOptionPane) para interface gráfica.
+
 🧮 Lógica condicional e formatação numérica.
